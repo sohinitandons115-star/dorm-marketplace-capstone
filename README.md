@@ -1,4 +1,5 @@
 # FridgePolice Implementation Report
+# This is not main branch
 
 ## Project Overview
 FridgePolice is a resilient state-management prototype designed to handle the "messy" reality of shared living. Built with React and LocalState, it prioritizes data integrity over the "happy path."
